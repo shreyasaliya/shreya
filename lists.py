@@ -1,7 +1,3 @@
-from cgi import print_arguments
-from distutils.util import change_root
-
-
 grocery = ["Harpic", "vim bar", "Lollypop", "banana", "Bhindi", 56]
 # print(grocery)
 print(grocery[2])
